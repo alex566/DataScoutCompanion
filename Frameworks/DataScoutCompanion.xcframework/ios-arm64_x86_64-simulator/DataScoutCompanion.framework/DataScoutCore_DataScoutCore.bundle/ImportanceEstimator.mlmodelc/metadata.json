@@ -1,0 +1,71 @@
+[
+  {
+    "shortDescription" : "A model trained using CreateML for use with CoreML.",
+    "metadataOutputVersion" : "3.0",
+    "outputSchema" : [
+      {
+        "isOptional" : "0",
+        "formattedType" : "Double",
+        "type" : "Double",
+        "name" : "score",
+        "shortDescription" : ""
+      }
+    ],
+    "version" : "1",
+    "modelParameters" : [
+
+    ],
+    "author" : "Alexey Oleynik",
+    "specificationVersion" : 1,
+    "stateSchema" : [
+
+    ],
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "10.13",
+      "tvOS" : "11.0",
+      "visionOS" : "1.0",
+      "watchOS" : "4.0",
+      "iOS" : "11.0",
+      "macCatalyst" : "11.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_pipelineRegressor",
+      "structure" : [
+        {
+          "name" : "MLModelType_oneHotEncoder"
+        },
+        {
+          "name" : "MLModelType_featureVectorizer"
+        },
+        {
+          "name" : "MLModelType_glmRegressor"
+        }
+      ]
+    },
+    "inputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Double",
+        "formattedType" : "MultiArray (Double 512)",
+        "shortDescription" : "",
+        "shape" : "[512]",
+        "name" : "name_vectors",
+        "type" : "MultiArray"
+      },
+      {
+        "isOptional" : "0",
+        "formattedType" : "String",
+        "type" : "String",
+        "name" : "data_class",
+        "shortDescription" : ""
+      }
+    ],
+    "userDefinedMetadata" : {
+      "com.apple.createml.version" : "15.1.0"
+    },
+    "generatedClassName" : "ImportanceEstimator",
+    "method" : "predict"
+  }
+]
