@@ -6,27 +6,27 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		YVlKVFkj2OmeUyHu5kNlra/m9W0=
+		7FqX12i0vxYZ8+up0dTrwRE8fsY=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		l6ixLFVH8OTolHOhFZBOsl9xS0M=
+		CPIHcJ3ladd5tbC0zphRT5BRMqw=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		uk41S3JWff5TojQsbLaksMp8gOQ=
+		kF+j6HJ334wCKCgXpLMEQD4Gjxg=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		WuJP6IJcyRDULSTYUnruMPdUPNw=
+		x3TCt6o4mWmeP6jtRNSUBb5579s=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		uk41S3JWff5TojQsbLaksMp8gOQ=
+		kF+j6HJ334wCKCgXpLMEQD4Gjxg=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gZ9Pp5StOlGdHP3D7DodPIjebkI=
+		xMSUGJnafWIr01lk+Sqx91EMovQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,35 +35,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+uApz9XEN/aCqIXRfX7urmneyG9TcZG1jkWH4rg5ym4=
+			2PVqx0U0rDLb7a2p1pLaPdeR4tqfZiDPFKPhAmgfGLY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MbeukW6pk95pEL4pyJO2ncdkXOdb6Mh9X8uOeVcls3E=
+			15cIV4n8zieK0rN+fAKsfQzqdHlTNht6DsXSW1GdpzY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0AQ/dgiaycS+SBwx0+jXUEb/HVv+1KcmI76G3Tg6V+4=
+			J69OxOcAoEdOkPRS1OJfg04hfiLW9voKENzAwy3gJ4M=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MbeukW6pk95pEL4pyJO2ncdkXOdb6Mh9X8uOeVcls3E=
+			15cIV4n8zieK0rN+fAKsfQzqdHlTNht6DsXSW1GdpzY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NSjjANpZ1iq/WEeLn/7l9AsY1De6tYV3Rv1Fg1lMRvQ=
+			TG2EGw605NyGzkpUhtrmKua4ntsPPLTP0YTj039TZFg=
 			</data>
 		</dict>
 	</dict>

@@ -1,14 +1,18 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
-// swift-module-flags: -target arm64-apple-ios18.4 -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -module-name DataScoutCompanion
-// swift-module-flags-ignorable:  -interface-compiler-version 6.1
+// swift-compiler-version: Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target arm64-apple-ios17.0 -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -module-name DataScoutCompanion
+// swift-module-flags-ignorable:  -interface-compiler-version 6.1.2
+import CoreData
 import Foundation
+import Network
 import Observation
 import Swift
+import SwiftData
 import SwiftUI
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import _SwiftData_CoreData
 @_Concurrency.MainActor @preconcurrency public struct DatabaseBrowser : SwiftUICore.View {
   @_Concurrency.MainActor @preconcurrency public init()
   @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
@@ -16,4 +20,22 @@ import _SwiftConcurrencyShims
   }
   public typealias Body = @_opaqueReturnTypeOf("$s18DataScoutCompanion15DatabaseBrowserV4bodyQrvp", 0) __
 }
+public enum AdvertisingServiceError : Swift.Error {
+  case listenerCreationFailed(any Swift.Error)
+  case alreadyAdvertising
+  case notAdvertising
+}
+@_hasMissingDesignatedInitializers @_Concurrency.MainActor final public class ConnectionService {
+  @_Concurrency.MainActor public static let shared: DataScoutCompanion.ConnectionService
+  @objc deinit
+}
+extension DataScoutCompanion.ConnectionService {
+  @_Concurrency.MainActor final public func startAdvertising(url: Foundation.URL)
+  @_Concurrency.MainActor final public func startAdvertising(container: SwiftData.ModelContainer)
+  @_Concurrency.MainActor final public func startAdvertising(container: CoreData.NSPersistentContainer)
+  @_Concurrency.MainActor final public func cancelAdvertising(url: Foundation.URL)
+  @_Concurrency.MainActor final public func cancelAdvertising(container: SwiftData.ModelContainer)
+  @_Concurrency.MainActor final public func cancelAdvertising(container: CoreData.NSPersistentContainer)
+}
 extension DataScoutCompanion.DatabaseBrowser : Swift.Sendable {}
+extension DataScoutCompanion.ConnectionService : Swift.Sendable {}

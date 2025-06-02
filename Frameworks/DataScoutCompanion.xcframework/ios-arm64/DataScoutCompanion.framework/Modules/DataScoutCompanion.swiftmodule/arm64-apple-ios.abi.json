@@ -6,231 +6,6 @@
     "children": [
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "PowerTable",
-        "printedName": "PowerTable",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion"
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "PowerTable",
-        "printedName": "PowerTable",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "PowerTable",
-        "printedName": "PowerTable",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Observation",
-        "printedName": "Observation",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Observation",
-        "printedName": "Observation",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion"
-      },
-      {
-        "kind": "Import",
-        "name": "PowerTable",
-        "printedName": "PowerTable",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DataScoutCore",
-        "printedName": "DataScoutCore",
-        "declKind": "Import",
-        "moduleName": "DataScoutCompanion",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -415,6 +190,26 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -422,6 +217,121 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PowerTable",
+        "printedName": "PowerTable",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Observation",
+        "printedName": "Observation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PowerTable",
+        "printedName": "PowerTable",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion"
       },
       {
         "kind": "Import",
@@ -465,19 +375,738 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PowerTable",
+        "printedName": "PowerTable",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdvertisingServiceError",
+        "printedName": "AdvertisingServiceError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "listenerCreationFailed",
+            "printedName": "listenerCreationFailed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataScoutCompanion.AdvertisingServiceError.Type) -> (any Swift.Error) -> DataScoutCompanion.AdvertisingServiceError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(any Swift.Error) -> DataScoutCompanion.AdvertisingServiceError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdvertisingServiceError",
+                        "printedName": "DataScoutCompanion.AdvertisingServiceError",
+                        "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataScoutCompanion.AdvertisingServiceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdvertisingServiceError",
+                        "printedName": "DataScoutCompanion.AdvertisingServiceError",
+                        "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO22listenerCreationFailedyACs0F0_pcACmF",
+            "mangledName": "$s18DataScoutCompanion23AdvertisingServiceErrorO22listenerCreationFailedyACs0F0_pcACmF",
+            "moduleName": "DataScoutCompanion"
+          },
+          {
+            "kind": "Var",
+            "name": "alreadyAdvertising",
+            "printedName": "alreadyAdvertising",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataScoutCompanion.AdvertisingServiceError.Type) -> DataScoutCompanion.AdvertisingServiceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdvertisingServiceError",
+                    "printedName": "DataScoutCompanion.AdvertisingServiceError",
+                    "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataScoutCompanion.AdvertisingServiceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdvertisingServiceError",
+                        "printedName": "DataScoutCompanion.AdvertisingServiceError",
+                        "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO07alreadyD0yA2CmF",
+            "mangledName": "$s18DataScoutCompanion23AdvertisingServiceErrorO07alreadyD0yA2CmF",
+            "moduleName": "DataScoutCompanion"
+          },
+          {
+            "kind": "Var",
+            "name": "notAdvertising",
+            "printedName": "notAdvertising",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DataScoutCompanion.AdvertisingServiceError.Type) -> DataScoutCompanion.AdvertisingServiceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdvertisingServiceError",
+                    "printedName": "DataScoutCompanion.AdvertisingServiceError",
+                    "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DataScoutCompanion.AdvertisingServiceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdvertisingServiceError",
+                        "printedName": "DataScoutCompanion.AdvertisingServiceError",
+                        "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO03notD0yA2CmF",
+            "mangledName": "$s18DataScoutCompanion23AdvertisingServiceErrorO03notD0yA2CmF",
+            "moduleName": "DataScoutCompanion"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:18DataScoutCompanion23AdvertisingServiceErrorO",
+        "mangledName": "$s18DataScoutCompanion23AdvertisingServiceErrorO",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion"
+      },
+      {
+        "kind": "Import",
+        "name": "PowerTable",
+        "printedName": "PowerTable",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Observation",
+        "printedName": "Observation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Observation",
         "printedName": "Observation",
         "declKind": "Import",
         "moduleName": "DataScoutCompanion"
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ConnectionService",
+        "printedName": "ConnectionService",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ConnectionService",
+                "printedName": "DataScoutCompanion.ConnectionService",
+                "usr": "s:18DataScoutCompanion17ConnectionServiceC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18DataScoutCompanion17ConnectionServiceC6sharedACvpZ",
+            "mangledName": "$s18DataScoutCompanion17ConnectionServiceC6sharedACvpZ",
+            "moduleName": "DataScoutCompanion",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "Custom",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ConnectionService",
+                    "printedName": "DataScoutCompanion.ConnectionService",
+                    "usr": "s:18DataScoutCompanion17ConnectionServiceC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18DataScoutCompanion17ConnectionServiceC6sharedACvgZ",
+                "mangledName": "$s18DataScoutCompanion17ConnectionServiceC6sharedACvgZ",
+                "moduleName": "DataScoutCompanion",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "startAdvertising",
+            "printedName": "startAdvertising(url:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18DataScoutCompanion17ConnectionServiceC16startAdvertising3urly10Foundation3URLV_tF",
+            "mangledName": "$s18DataScoutCompanion17ConnectionServiceC16startAdvertising3urly10Foundation3URLV_tF",
+            "moduleName": "DataScoutCompanion",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "startAdvertising",
+            "printedName": "startAdvertising(container:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ModelContainer",
+                "printedName": "SwiftData.ModelContainer",
+                "usr": "s:9SwiftData14ModelContainerC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18DataScoutCompanion17ConnectionServiceC16startAdvertising9containery05SwiftA014ModelContainerC_tF",
+            "mangledName": "$s18DataScoutCompanion17ConnectionServiceC16startAdvertising9containery05SwiftA014ModelContainerC_tF",
+            "moduleName": "DataScoutCompanion",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "startAdvertising",
+            "printedName": "startAdvertising(container:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSPersistentContainer",
+                "printedName": "CoreData.NSPersistentContainer",
+                "usr": "c:objc(cs)NSPersistentContainer"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18DataScoutCompanion17ConnectionServiceC16startAdvertising9containerySo21NSPersistentContainerC_tF",
+            "mangledName": "$s18DataScoutCompanion17ConnectionServiceC16startAdvertising9containerySo21NSPersistentContainerC_tF",
+            "moduleName": "DataScoutCompanion",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cancelAdvertising",
+            "printedName": "cancelAdvertising(url:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18DataScoutCompanion17ConnectionServiceC17cancelAdvertising3urly10Foundation3URLV_tF",
+            "mangledName": "$s18DataScoutCompanion17ConnectionServiceC17cancelAdvertising3urly10Foundation3URLV_tF",
+            "moduleName": "DataScoutCompanion",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cancelAdvertising",
+            "printedName": "cancelAdvertising(container:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ModelContainer",
+                "printedName": "SwiftData.ModelContainer",
+                "usr": "s:9SwiftData14ModelContainerC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18DataScoutCompanion17ConnectionServiceC17cancelAdvertising9containery05SwiftA014ModelContainerC_tF",
+            "mangledName": "$s18DataScoutCompanion17ConnectionServiceC17cancelAdvertising9containery05SwiftA014ModelContainerC_tF",
+            "moduleName": "DataScoutCompanion",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cancelAdvertising",
+            "printedName": "cancelAdvertising(container:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSPersistentContainer",
+                "printedName": "CoreData.NSPersistentContainer",
+                "usr": "c:objc(cs)NSPersistentContainer"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18DataScoutCompanion17ConnectionServiceC17cancelAdvertising9containerySo21NSPersistentContainerC_tF",
+            "mangledName": "$s18DataScoutCompanion17ConnectionServiceC17cancelAdvertising9containerySo21NSPersistentContainerC_tF",
+            "moduleName": "DataScoutCompanion",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:18DataScoutCompanion17ConnectionServiceC",
+        "mangledName": "$s18DataScoutCompanion17ConnectionServiceC",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "Custom",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftData",
+        "printedName": "SwiftData",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Observation",
+        "printedName": "Observation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion"
+      },
+      {
+        "kind": "Import",
+        "name": "PowerTable",
+        "printedName": "PowerTable",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PowerTable",
+        "printedName": "PowerTable",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DataScoutCore",
+        "printedName": "DataScoutCore",
+        "declKind": "Import",
+        "moduleName": "DataScoutCompanion",
+        "declAttributes": [
+          "AccessControl"
+        ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
+      "filePath": "\/Users\/alexey\/Documents\/GitHub\/swiftdata-browser\/DataScoutCompanion\/Replication\/AdvertisingService.swift",
+      "kind": "StringLiteral",
+      "offset": 590,
+      "length": 27,
+      "value": "\"com.datascout.advertising\""
+    },
+    {
+      "filePath": "\/Users\/alexey\/Documents\/GitHub\/swiftdata-browser\/DataScoutCompanion\/Replication\/Connection.swift",
+      "kind": "StringLiteral",
+      "offset": 1311,
+      "length": 26,
+      "value": "\"com.datascout.connection\""
+    },
+    {
+      "filePath": "\/Users\/alexey\/Documents\/GitHub\/swiftdata-browser\/DataScoutCompanion\/Replication\/ConnectionService.swift",
+      "kind": "StringLiteral",
+      "offset": 207,
+      "length": 22,
+      "value": "\"_datascout-sync._tcp\""
+    },
+    {
       "filePath": "\/Users\/alexey\/Documents\/GitHub\/swiftdata-browser\/DataScoutCompanion\/DatabaseController.swift",
       "kind": "BooleanLiteral",
       "offset": 421,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexey\/Documents\/GitHub\/swiftdata-browser\/DataScoutCompanion\/Replication\/DatabaseReplicator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 513,
       "length": 5,
       "value": "false"
     }
