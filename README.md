@@ -40,3 +40,41 @@ struct YourRootView: View {
     }
 }
 ```
+
+## 🛜 Remote debugging
+
+1. Update Info.plist with the following keys:
+```xml
+    <key>NSBonjourServices</key>
+    <array>
+        <string>_datascout-sync._tcp</string>
+    </array>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>To debug the database over the local network</string>
+```
+
+2. In your app’s startup code (e.g. in `AppDelegate` or `SceneDelegate`), import the package and call `startAdvertising`:
+
+```swift
+import DataScoutCompanion
+
+func application(_ application: UIApplication,
+                didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+    // Option A: Pass an existing ModelContainer
+    let myModelContainer = /* your ModelContainer instance */
+    ConnectionService.shared.startAdvertising(container: myModelContainer)
+
+    // Option B: Pass a file URL to your database
+    let dbURL: URL = /* URL to your .sqlite3 file */
+    ConnectionService.shared.startAdvertising(url: dbURL)
+
+    return true
+}
+```
+
+### 3. Use the Built-In Database Browser (Alternative)
+
+If you’d rather broadcast from within the companion UI in your app:
+1. **Open** the database you wish to debug.  
+2. Go to the **Network Debugging** menu.  
+2. Enable the **Discovery** checkbox for that database.

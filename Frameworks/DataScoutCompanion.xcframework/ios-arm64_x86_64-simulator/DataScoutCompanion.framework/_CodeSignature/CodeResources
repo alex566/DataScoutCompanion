@@ -6,47 +6,47 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		RQhisGQuRv8wOZvc2caP9fjpUq4=
+		+F4h+uy7iL5gqAhPYLI7PfsOwSw=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0cOVtnm+kLciWgop1KfI3NxjwpI=
+		d1d3pHS6TDIT3OJSD0OlNSKTWL8=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wahIIobed2QxkAQjBwd4V+/y/8k=
+		hyr2YT8GlZPmiY9p04a2GOI5h54=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		X4r9UMUMHn4xYaXZ+52HjUWS0eE=
+		rjQJ9CgqUmg+paC2QzQYohebj0I=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wahIIobed2QxkAQjBwd4V+/y/8k=
+		hyr2YT8GlZPmiY9p04a2GOI5h54=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5EGxytyHj4tAuhLR22turXwPSEM=
+		Iq3rHafAinEkrS0Fa99tlYzjGzg=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0cOVtnm+kLciWgop1KfI3NxjwpI=
+		d1d3pHS6TDIT3OJSD0OlNSKTWL8=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NJIN6qwIeb/XdYujNdsPmKyrIv4=
+		OCKIM2XlBs9MYlQ9Sp67ZI/IOE0=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		N7Y5EU5qtc64z/kExZ0BvSuvqGE=
+		eSadZCcPmOAH599FmNFZmDn8Hh4=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NJIN6qwIeb/XdYujNdsPmKyrIv4=
+		OCKIM2XlBs9MYlQ9Sp67ZI/IOE0=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v846/ohVvbDHF+KxzJ9dBYHzYp0=
+		7YGHmpA6OyUCrgE+3csyuL/rZuc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,70 +55,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			00lq5Ask8ACsONBxmBc5GTcL2i7oQ/+mufxp/18wUAk=
+			BWSLuhvBYfagm+6ilFMVrE4kQ37yQQO706bRfXO4IzY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJh+Qh4KQ+58cf6ltOi/r0xqzm8fx0GkTPO3e7aD/oA=
+			jP3CGeTYZVb6vwMLHs2fEHVSajNp+QWKH3gJ5H3Rta8=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ni+yTbAG8juaFbwBl8Yabn2UGIuybxnhD0cPGtvP9AQ=
+			JhZum7pO9D9H+te7Q5I60b7V4ne6YqAQCbHl4U2dwUU=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJh+Qh4KQ+58cf6ltOi/r0xqzm8fx0GkTPO3e7aD/oA=
+			jP3CGeTYZVb6vwMLHs2fEHVSajNp+QWKH3gJ5H3Rta8=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DtGgVj5sAz//99wweknu7bDcqv9G2U5QFs2N3WUtTaI=
+			UvxNzy4kHM2Es1buVATw0+9DGLjTSuS3arR3sSVyKv8=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			00lq5Ask8ACsONBxmBc5GTcL2i7oQ/+mufxp/18wUAk=
+			BWSLuhvBYfagm+6ilFMVrE4kQ37yQQO706bRfXO4IzY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3nF7ntVakDmKn3YzvvOG5W8WjGIyLKejGDkUPSVtsXI=
+			fLX/BlNcgnlrf96a0cybL0NP8juSWBJ0G/tPJ6kd+kY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pk6uYIRukBNCfNCCZLLrJODpFFUXP5mnxq50rsdfxWo=
+			ULGMcGfm/jScpfgPSH8VU5b281LULp3olUYdJXxu57s=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3nF7ntVakDmKn3YzvvOG5W8WjGIyLKejGDkUPSVtsXI=
+			fLX/BlNcgnlrf96a0cybL0NP8juSWBJ0G/tPJ6kd+kY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VHL1jQzxiwvkf7dTMKDPZG91GvVtQ9dhXIAOnQAL+k0=
+			QtCJWr5vClBj2c46y8mSOykvFHCx4yH+tOnvOt65mbM=
 			</data>
 		</dict>
 	</dict>
