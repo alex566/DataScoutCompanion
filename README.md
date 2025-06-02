@@ -43,7 +43,17 @@ struct YourRootView: View {
 
 ## 🛜 Remote debugging
 
-In your app’s startup code (e.g. in `AppDelegate` or `SceneDelegate`), import the package and call `startAdvertising`:
+1. Update Info.plist with the following keys:
+```xml
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_datascout-sync._tcp</string>
+	</array>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>To debug the database over the local network</string>
+```
+
+2. In your app’s startup code (e.g. in `AppDelegate` or `SceneDelegate`), import the package and call `startAdvertising`:
 
 ```swift
 import DataScoutCompanion
