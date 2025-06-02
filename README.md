@@ -45,10 +45,10 @@ struct YourRootView: View {
 
 1. Update Info.plist with the following keys:
 ```xml
-	<key>NSBonjourServices</key>
-	<array>
-		<string>_datascout-sync._tcp</string>
-	</array>
+    <key>NSBonjourServices</key>
+    <array>
+        <string>_datascout-sync._tcp</string>
+    </array>
     <key>NSLocalNetworkUsageDescription</key>
     <string>To debug the database over the local network</string>
 ```
