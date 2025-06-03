@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		CPIHcJ3ladd5tbC0zphRT5BRMqw=
+		fLxobclK/Cvco+5N3X6IwuMklGc=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		kF+j6HJ334wCKCgXpLMEQD4Gjxg=
+		xYazD7kGtId294s8fjuefq0crLk=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		kF+j6HJ334wCKCgXpLMEQD4Gjxg=
+		xYazD7kGtId294s8fjuefq0crLk=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		xMSUGJnafWIr01lk+Sqx91EMovQ=
+		WvPWnJj32VjwhrFtLcZQIFJtLtQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,14 +35,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2PVqx0U0rDLb7a2p1pLaPdeR4tqfZiDPFKPhAmgfGLY=
+			oUjbrZlBOuDRcqHPyXL4ocFHzOF39HVIHSuTU3qvtrE=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			15cIV4n8zieK0rN+fAKsfQzqdHlTNht6DsXSW1GdpzY=
+			w3dP9rpxQd2hZu/SgOgvhRPrmBNO+YnOh3beEHUrnlY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -56,14 +56,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			15cIV4n8zieK0rN+fAKsfQzqdHlTNht6DsXSW1GdpzY=
+			w3dP9rpxQd2hZu/SgOgvhRPrmBNO+YnOh3beEHUrnlY=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TG2EGw605NyGzkpUhtrmKua4ntsPPLTP0YTj039TZFg=
+			TONFvSFMrecU5huDAtFFatIe4woBLUzOQCm35OSmbi8=
 			</data>
 		</dict>
 	</dict>

@@ -13,13 +13,6 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import _SwiftData_CoreData
-@_Concurrency.MainActor @preconcurrency public struct DatabaseBrowser : SwiftUICore.View {
-  @_Concurrency.MainActor @preconcurrency public init()
-  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
-    get
-  }
-  public typealias Body = @_opaqueReturnTypeOf("$s18DataScoutCompanion15DatabaseBrowserV4bodyQrvp", 0) __
-}
 public enum AdvertisingServiceError : Swift.Error {
   case listenerCreationFailed(any Swift.Error)
   case alreadyAdvertising
@@ -37,5 +30,12 @@ extension DataScoutCompanion.ConnectionService {
   @_Concurrency.MainActor final public func cancelAdvertising(container: SwiftData.ModelContainer)
   @_Concurrency.MainActor final public func cancelAdvertising(container: CoreData.NSPersistentContainer)
 }
-extension DataScoutCompanion.DatabaseBrowser : Swift.Sendable {}
+@_Concurrency.MainActor @preconcurrency public struct DatabaseBrowser : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init()
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s18DataScoutCompanion15DatabaseBrowserV4bodyQrvp", 0) __
+}
 extension DataScoutCompanion.ConnectionService : Swift.Sendable {}
+extension DataScoutCompanion.DatabaseBrowser : Swift.Sendable {}
