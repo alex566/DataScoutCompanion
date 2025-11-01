@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uUNbbWS9jmUOlGmcjwEjJIVMQIc=
+		j7fYXsFDf1JWZOkTxEmL5hejHJU=
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,11 @@
 		</data>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nEBXUdFks7wB/4gpM40Qj2d22jo=
+		mU83yzplfiV6/TN4AdrmhZPgYf0=
+		</data>
+		<key>layoutengine.min.js</key>
+		<data>
+		wf/zZjwdgt7HN3Q9TwHPOGLw1gg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8XAhw81Vky7rps5mnsh34zBAL2Rh3NosgJcUt1UiCY=
+			VQk2SXU3iELteGzERiscZgqj66jU7Z+qsNfeBevGhCE=
 			</data>
 		</dict>
 		<key>Modules/DataScoutCompanion.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -118,7 +122,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AjTOKf3shNX1h8a0GI1yOT7N+0vFhgKqxUiSGjdQrPY=
+			kJAv/1SbX4ddRxD8S91Ri0PbtnHP3gFliaX1UyR5mek=
+			</data>
+		</dict>
+		<key>layoutengine.min.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4HPoqLyoIhiV4S6CEvf/pevor+E7wJWuDWEWz+8z2Lw=
 			</data>
 		</dict>
 	</dict>
