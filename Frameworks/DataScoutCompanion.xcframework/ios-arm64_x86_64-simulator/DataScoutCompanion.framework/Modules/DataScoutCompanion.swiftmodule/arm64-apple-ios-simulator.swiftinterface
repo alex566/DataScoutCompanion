@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-compiler-version: Apple Swift version 6.2 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
 // swift-module-flags: -target arm64-apple-ios17.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -module-name DataScoutCompanion
-// swift-module-flags-ignorable:  -interface-compiler-version 6.1.2
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import CoreData
 import Foundation
 import Network
@@ -13,6 +13,15 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import _SwiftData_CoreData
+public enum AdvertisingServiceError : Swift.Error {
+  case listenerCreationFailed(any Swift.Error)
+  case alreadyAdvertising
+  case notAdvertising
+}
+@_hasMissingDesignatedInitializers @_Concurrency.MainActor final public class ConnectionService {
+  @_Concurrency.MainActor public static let shared: DataScoutCompanion.ConnectionService
+  @objc deinit
+}
 extension DataScoutCompanion.ConnectionService {
   @_Concurrency.MainActor final public func startAdvertising(url: Foundation.URL)
   @_Concurrency.MainActor final public func startAdvertising(container: SwiftData.ModelContainer)
@@ -20,15 +29,6 @@ extension DataScoutCompanion.ConnectionService {
   @_Concurrency.MainActor final public func cancelAdvertising(url: Foundation.URL)
   @_Concurrency.MainActor final public func cancelAdvertising(container: SwiftData.ModelContainer)
   @_Concurrency.MainActor final public func cancelAdvertising(container: CoreData.NSPersistentContainer)
-}
-@_hasMissingDesignatedInitializers @_Concurrency.MainActor final public class ConnectionService {
-  @_Concurrency.MainActor public static let shared: DataScoutCompanion.ConnectionService
-  @objc deinit
-}
-public enum AdvertisingServiceError : Swift.Error {
-  case listenerCreationFailed(any Swift.Error)
-  case alreadyAdvertising
-  case notAdvertising
 }
 @_Concurrency.MainActor @preconcurrency public struct DatabaseBrowser : SwiftUICore.View {
   @_Concurrency.MainActor @preconcurrency public init()
